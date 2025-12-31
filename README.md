@@ -1,4 +1,4 @@
-   #                                                          👋 Hi, I'm Zackery Carlson.
+   #                                                          👋 Hi, I'm Zackery C.
 
 **14 (Turning 15 in a week) - Self-taught ML Infrastructure Engineer**
 
