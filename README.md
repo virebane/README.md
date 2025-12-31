@@ -26,7 +26,7 @@ I am from the beautiful coast of Cali, San Diego. I have been fascinated with te
 - End-to-end ML systems with distributed training via courses from available college courses.
 - Financial models quantifying ROI and TCO of optimizations.
 
- # **Learning now**
+ # **Currently Learning**
 **Languages:**
 - Python 
 - C++
