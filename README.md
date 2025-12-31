@@ -13,7 +13,7 @@ I am from the beautiful coast of Cali, San Diego. I have been fascinated with te
 **My goal!**
 - Develop a high-performance AI infrastructure that is faster, more efficient, and financially justified at a larger scale.
 
-# **👾Current Work** (I started Dec 27, 2025 - 4 hours/day)
+# **👾Currently Learning Now** (I started Dec 27, 2025 - 4 hours/day)
 - Mathematics for Machine Learning (Linear Algebra to Multivariable Calculus)
 - GPU programming fundamentals (Triton, CUDA preparation) 
 - You should definitely read this - it's awesome; https://resources.nvidia.com/en-us-blackwell-architecture?ncid=no-ncid
@@ -26,14 +26,25 @@ I am from the beautiful coast of Cali, San Diego. I have been fascinated with te
 - End-to-end ML systems with distributed training via courses from available college courses.
 - Financial models quantifying ROI and TCO of optimizations.
 
-- # **Expierences**
+ # **Learning now**
 **Languages:**
-- Python (My go-to)
+- Python 
 - C++
-- Triton (First language)
-- CUDA (Love this language)
+- Triton 
+- CUDA 
 
-**Proficiencies:**
+# Resources/certifications
+**Courses** 
+- Mathematics for Machine Learning
+- CS50 (Harvard)
+- Andrew Ng ML Specialization
+- MIT 6.006, 18.065, 6.824
+- GPU Programming Specialization
+- IBM Machine Learning Professional 
+- Quantitative modeling
+- Advanced Machine Learning on Google Cloud Specialization
+
+**Building Towards:**
 - End-to-end Systems
 - GPU Programming (NVIDIA Mobile RTX 5050)
 - Linear Algebra & Multivariable Calculus 
