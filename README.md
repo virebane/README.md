@@ -1,12 +1,12 @@
    #                                                          👋 Hi, I'm Zack.
 
-**14 (Turning 15 in a week) - Self-taught ML Infrastructure Engineer**
+**Self-taught AI security Engineer**
 
-Focused on GPU kernel optimization, ML systems, and quantitative analysis of computational ROI.
+I specialize in Generative AI, machine learning, AI-driven security products (including Security Copilot and RL-tuned Security AI Models), cryptography, and zero-day.
 
 # 😎 About Me!
 
-I am from the beautiful coast of Cali, San Diego. I have been fascinated with technology ever since my parents purchased me my first device. I started self-studying Artificial Intelligence when I was 13 years old, driven by a passion for optimization, pushing the boundaries of technology, and eventually found my passion in Machine Learning and GPU Optimization to power the most modern AI systems. 
+I am from the beautiful coast of San Diego, California. I have been fascinated with technology ever since my parents purchased me my first device. I started self-studying Artificial Intelligence when I was 13 years old, driven by a passion for optimization, pushing the boundaries of technology, and eventually found my passion in Machine Learning and GPU Optimization to power the most modern AI systems. 
 
 
 
